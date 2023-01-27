@@ -26,8 +26,8 @@ download_images(subreddit_name, download_path)
         </pre>
     <h2>Languages</h2>
     <ul>
-      <li><a href="https://github.com/MrFlappy0/Reddit-downloader/blob/6ff3faa3ebb68e03931a3d7db6c42c10986620e7/Readme.FR.md">Francais</a></li>
-      <li><a href="https://github.com/MrFlappy0/Reddit-downloader/blob/b20c95fee41d68e4dd553a474b08a324d1f888da/Readme.RU.md">Русский </a></li>
+      <li><a href="https://github.com/MrFlappy0/Reddit-downloader/blob/2f834ca7246d20400327d04a0840bd988435ee64/Readme%20language/Readme.FR.md">Francais</a></li>
+      <li><a href="https://github.com/MrFlappy0/Reddit-downloader/blob/2f834ca7246d20400327d04a0840bd988435ee64/Readme%20language/Readme.RU.md">Русский </a></li>
     </ul>
   </body>
 </html>
