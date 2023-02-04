@@ -20,5 +20,15 @@
       <li><a href="https://github.com/MrFlappy0/Reddit-downloader/blob/2f834ca7246d20400327d04a0840bd988435ee64/Readme%20language/Readme.RU.md">Русский </a></li>
     </ul>
   </body>
+  
+  
 </html>
+
+<h2>Attention</h2>
+
+PS:_**🛑🛑Attention🛑**_ the program "User.reddit.Downloader.just.EN.and.in.test.py" is a complement of the code but is still in beta the explanations are if below :
+
+
+This program downloads the specified number of files posted by a Reddit user in the given time. The program first checks if the required modules are installed, and installs them if necessary. The Reddit API (PRAW) is used to access the user's submissions, and the requests module is used to download the files. The uploaded files are saved in the designated directory with unique file names. The program prints messages to indicate the progress of the download process, including the number of successful downloads, failed downloads and any errors encountered. The user can choose the duration of the file download, as well as the maximum number of files to download. Note that this program is a beta version and may have bugs.
+
 
